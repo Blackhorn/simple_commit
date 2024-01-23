@@ -7,6 +7,20 @@ function App() {
     <>
     <h2>BMI calculator</h2>
     <h2>111111111111111111111</h2>
+    <h2>BMI calculator</h2>
+    <h2>111111111111111111111</h2>
+    <h2>BMI calculator</h2>
+    <h2>111111111111111111111</h2>
+    <h2>BMI calculator</h2>
+    <h2>111111111111111111111</h2>
+    <h2>BMI calculator</h2>
+    <h2>111111111111111111111</h2>
+    <h2>BMI calculator</h2>
+    <h2>111111111111111111111</h2>
+    <h2>BMI calculator</h2>
+    <h2>111111111111111111111</h2>
+    <h2>BMI calculator</h2>
+    <h2>111111111111111111111</h2>
     <BmiCalculator></BmiCalculator>
     </>
   )
